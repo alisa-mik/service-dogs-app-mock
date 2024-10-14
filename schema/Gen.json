@@ -1,0 +1,25 @@
+{
+  "dogs": {
+    "profile": {
+      "id": {
+        "type": "id"
+      },
+      "name": {
+        "type": "firstName"
+      },
+      "birthDate": {
+        "type": "pastDate",
+        "value": {
+          "years": "1",
+          "dateMask": "X"
+        }
+      },
+      "image": {
+        "type": "dogsImage"
+      },
+      "active": {
+        "type": "true"
+      }
+    }
+  }
+}
